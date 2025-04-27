@@ -1,4 +1,4 @@
-# Detecting-steganography-with-tools-like-StegExpose-analyzing-file-signatures
+# LAB 8 Detecting-steganography-with-tools-like-StegExpose-analyzing-file-signatures
 ## REG NO:212222230028
 ## NAME: DEEPIKA S
 ## AIM:
